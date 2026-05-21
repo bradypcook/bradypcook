@@ -1,3 +1,7 @@
+<p>
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="header image" />
+</p>
+
 # 💫 Hi, I'm Brady:
 I'm a cybersecurity student at Virginia Tech and I specialize in python, computer networking, network forensics, and web development.
 
